@@ -1,0 +1,44 @@
+         +------------------+
+         |  Load CSV Files  |
+         |  (6 files total) |
+         +--------+---------+
+                  |
+                  v
+        +-----------------------+
+        |  Data Cleaning &      |
+        |  Preprocessing        |
+        |  - Handle nulls       |
+        |  - Format columns     |
+        +----------+------------+
+                   |
+                   v
+        +----------------------------+
+        |  Data Integration & Merging |
+        |  - Combine related datasets |
+        +-------------+--------------+
+                      |
+                      v
+         +------------------------------+
+         |  Feature Engineering          |
+         |  - Calculate required metrics |
+         +-------------+----------------+
+                       |
+                       v
+         +------------------------------+
+         |  Exploratory Data Analysis   |
+         |  - Visualize patterns        |
+         |  - Summary statistics        |
+         |  - Identify correlations     |
+         +-------------+----------------+
+                       |
+                       v
+         +------------------------------+
+         |  Generate Insights           |
+         +-------------+----------------+
+                       |
+                       v
+         +------------------------------+
+         |  Share Findings              |
+         |  - Dashboards (optional)     |
+         |  - Reports for instructors   |
+         +------------------------------+

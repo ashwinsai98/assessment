@@ -1,0 +1,51 @@
+student_id,program,enrollment_date,current_semester
+S1001,Computer Science,2022-09-01,6
+S1002,Data Science,2022-09-01,6
+S1003,Computer Science,2023-01-15,5
+S1004,Mathematics,2022-09-01,6
+S1005,Statistics,2023-09-01,4
+S1006,Data Science,2023-01-15,5
+S1007,Computer Engineering,2022-09-01,6
+S1008,Mathematics,2023-09-01,4
+S1009,Computer Science,2023-01-15,5
+S1010,Data Science,2023-09-01,4
+S1011,Statistics,2022-09-01,6
+S1012,Computer Science,2023-01-15,5
+S1013,Mathematics,2023-09-01,4
+S1014,Data Science,2022-09-01,6
+S1015,Computer Engineering,2023-01-15,5
+S1016,Statistics,2023-09-01,4
+S1017,Computer Science,2022-09-01,6
+S1018,Data Science,2023-01-15,5
+S1019,Mathematics,2023-09-01,4
+S1020,Computer Science,2022-09-01,6
+S1021,Computer Science,2024-01-15,3
+S1022,Data Science,2024-01-15,3
+S1023,Computer Science,2024-01-15,3
+S1024,Mathematics,2024-01-15,3
+S1025,Statistics,2024-01-15,3
+S1026,Data Science,2024-01-15,3
+S1027,Computer Engineering,2024-01-15,3
+S1028,Mathematics,2024-01-15,3
+S1029,Computer Science,2024-09-01,2
+S1030,Data Science,2024-09-01,2
+S1031,Statistics,2024-09-01,2
+S1032,Computer Science,2024-09-01,2
+S1033,Mathematics,2024-09-01,2
+S1034,Data Science,2024-09-01,2
+S1035,Computer Engineering,2024-09-01,2
+S1036,Statistics,2024-09-01,2
+S1037,Computer Science,2024-09-01,2
+S1038,Data Science,2024-09-01,2
+S1039,Mathematics,2025-01-15,1
+S1040,Computer Science,2025-01-15,1
+S1041,Computer Science,2025-01-15,1
+S1042,Data Science,2025-01-15,1
+S1043,Computer Science,2025-01-15,1
+S1044,Mathematics,2025-01-15,1
+S1045,Statistics,2025-01-15,1
+S1046,Data Science,2025-01-15,1
+S1047,Computer Engineering,2025-01-15,1
+S1048,Mathematics,2025-01-15,1
+S1049,Computer Science,2025-01-15,1
+S1050,Data Science,2025-01-15,1

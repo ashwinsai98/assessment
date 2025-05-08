@@ -1,0 +1,26 @@
+assignment_id,course_id,title,due_date,max_points
+A001,CS101,Programming Basics,2025-01-17,100
+A002,CS101,Control Structures,2025-01-31,100
+A003,CS101,Functions and Methods,2025-02-14,100
+A004,CS101,Arrays and Lists,2025-02-28,100
+A005,CS101,Object-Oriented Programming,2025-03-14,100
+A006,DS200,Data Cleaning,2025-01-19,100
+A007,DS200,Exploratory Data Analysis,2025-02-02,100
+A008,DS200,Statistical Analysis,2025-02-16,100
+A009,DS200,Data Visualization Basics,2025-03-02,100
+A010,DS200,Advanced Visualization Techniques,2025-03-16,100
+A011,MATH150,Limits and Continuity,2025-01-21,100
+A012,MATH150,Derivatives,2025-02-04,100
+A013,MATH150,Integration Techniques,2025-02-18,100
+A014,MATH150,Applications of Integration,2025-03-04,100
+A015,MATH150,Infinite Series,2025-03-18,100
+A016,CS301,Database Design,2025-01-23,100
+A017,CS301,SQL Basics,2025-02-06,100
+A018,CS301,Advanced Queries,2025-02-20,100
+A019,CS301,Normalization,2025-03-06,100
+A020,CS301,Database Implementation Project,2025-03-20,100
+A021,DS400,Chart Selection,2025-01-25,100
+A022,DS400,Interactive Visualizations,2025-02-08,100
+A023,DS400,Storytelling with Data,2025-02-22,100
+A024,DS400,Dashboard Design,2025-03-08,100
+A025,DS400,Final Visualization Project,2025-03-22,100

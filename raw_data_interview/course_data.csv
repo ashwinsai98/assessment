@@ -1,0 +1,6 @@
+course_id,course_name,department,credit_hours,instructor_id
+CS101,Introduction to Programming,Computer Science,3,PROF001
+DS200,Data Analysis Fundamentals,Data Science,4,PROF002
+MATH150,Calculus I,Mathematics,4,PROF003
+CS301,Database Systems,Computer Science,3,PROF004
+DS400,Data Visualization,Data Science,3,PROF005
